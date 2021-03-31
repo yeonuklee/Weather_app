@@ -1,0 +1,41 @@
+{
+  "folders": [
+	{
+		"path": "../../JSsprint/Website"
+	},
+	{
+		"path": "../../complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final"
+	},
+	{
+		"path": "../../JSsprint/Stock"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Website",
+    "emmet.preferences": {},
+    "liveSassCompile.settings.autoprefix": [],
+    "liveSassCompile.settings.excludeList": [
+      "**/node_modules/**",
+      ".vscode/**"
+    ],
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/dist/css",
+        "savePathSegmentKeys": null,
+        "savePathReplaceSegmentsWith": null
+      }
+    ],
+    "liveSassCompile.settings.includeItems": [],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.forceBaseDirectory": "",
+    "liveSassCompile.settings.watchOnLaunch": true,
+    "debug.showInStatusBar": "always",
+    "problems.showCurrentInStatus": true,
+    "editor.suggest.showStatusBar": true
+  }
+}
